@@ -1,5 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url('photo-of-mountains-during-sunset.jpg');
+  background-size:cover;
+}
+
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
